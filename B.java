@@ -1,1 +1,1 @@
-I am in A file
+I am in B file
