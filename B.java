@@ -1,3 +1,3 @@
-I am in A file
 
-  naveen updated B File through his PR
+I am in B file
+naveen updated B File through his PR
